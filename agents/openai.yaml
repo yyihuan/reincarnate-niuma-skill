@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reincarnate Niuma"
+  short_description: "从多轮职业访谈与可追溯底稿，到岗位分析、独立评审和申请材料定稿"
+  default_prompt: "使用 $reincarnate-niuma，先整理我的职业底稿与侧写，再针对目标岗位编写并评审申请材料。"
